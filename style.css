@@ -1,0 +1,5 @@
+:root{--bg:#0F172A;--fg:#E2E8F0;--muted:#94A3B8;--accent:#F5B841}
+body{margin:0;background:var(--bg);color:var(--fg);font-family:system-ui,"Noto Sans TC","Microsoft JhengHei",sans-serif;line-height:1.7}
+main{max-width:760px;margin:0 auto;padding:48px 16px}
+h1{color:var(--accent);margin:0 0 8px}h2{margin-top:32px}a{color:var(--accent)}
+.muted{color:var(--muted)}footer{margin-top:48px;color:var(--muted);font-size:14px}
